@@ -43,7 +43,7 @@ The `Appendix_Testbench` section describes the testbench process that can be exe
 <br>
 
 ## Paper
-As the inference latency is approximately **12 seconds**, significant improvements and optimizations are required for deployment in systems demanding rapid response times. For a deeper understanding of the hardware architecture and implementation details, please refer to the following publication:
+For a deeper understanding of the hardware architecture and implementation details, please refer to the following publication:
 
 * **Paper**: [Design and Implementation of a Low-Resource YOLOv2 Accelerator on Zynq-7000 SoC](https://doi.org/10.3390/s25206359)
 <br>
