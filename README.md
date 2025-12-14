@@ -1,0 +1,2 @@
+# YOLOv2_ZYBOZ720
+YOLOv2 Accelerator on ZYBO Z7-20 FPGA
