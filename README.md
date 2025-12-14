@@ -35,7 +35,7 @@ Once the environment is set up, please proceed with the tasks in the order of th
 Upon successfully completing the steps up to `04_YOLOv2_With_Petalinux`, the system will generate the following predictions files:
 
 **Predictions Result:**
-![predictions](predictions.jpg)
+![predictions](predictions.png)
 <br>
 
 ## Testbench
