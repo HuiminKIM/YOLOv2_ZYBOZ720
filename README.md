@@ -45,7 +45,7 @@ The `Appendix_Testbench` section describes the testbench process that can be exe
 ## Paper
 For a deeper understanding of the hardware architecture and implementation details, please refer to the following publication:
 
-* **Paper**: [Design and Implementation of a Low-Resource YOLOv2 Accelerator on Zynq-7000 SoC](https://doi.org/10.3390/s25206359)
+* **Paper**: [Design and Implementation of a YOLOv2 Accelerator on a Zynq-7000 FPGA](https://doi.org/10.3390/s25206359)
 <br>
 
 ## References
