@@ -26,10 +26,10 @@ To replicate this project, the following hardware and software environment is re
 ## Getting Started
 
 Once the environment is set up, please proceed with the tasks in the order of the numbered files in this repository.
-* 01_Source
-* 02_Synthesis&Implementation
-* 03_Petalinux
-* 04_YOLOv2_With_Petalinux
+* `01_Source`
+* `02_Synthesis&Implementation`
+* `03_Petalinux`
+* `04_YOLOv2_With_Petalinux`
 
 ### Inference Results
 Upon successfully completing the steps up to `04_YOLOv2_With_Petalinux`, the system will generate the following predictions files:
