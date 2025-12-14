@@ -50,4 +50,5 @@ For a deeper understanding of the hardware architecture and implementation detai
 
 ## References
 **[1]** dhm2013724, yolov2_xilinx_fpga. (https://github.com/dhm2013724/yolov2_xilinx_fpga)
+
 **[2]** dtrnngc, UA-Detrac Dataset. (https://www.kaggle.com/datasets/dtrnngc/ua-detrac-dataset)
