@@ -34,7 +34,7 @@ Once the environment is set up, please proceed with the tasks in the order of th
 ### Inference Results
 Upon successfully completing the steps up to `04_YOLOv2_With_Petalinux`, the system will generate the following predictions files:
 
-**Predictions Result:**
+**Predictions Result[2]**
 ![predictions](predictions.png)
 <br>
 
@@ -50,3 +50,4 @@ For a deeper understanding of the hardware architecture and implementation detai
 
 ## References
 **[1]** dhm2013724, yolov2_xilinx_fpga. (https://github.com/dhm2013724/yolov2_xilinx_fpga)
+**[2]** dtrnngc, UA-Detrac Dataset. (https://www.kaggle.com/datasets/dtrnngc/ua-detrac-dataset)
