@@ -56,8 +56,6 @@ This section demonstrates how to execute the YOLOv2 accelerator application on t
       <img src="prediction.png" alt="Prediction" width="600">
     </p>
     <br>
-
-    **UA-DETRAC Prediction:**
     <p align="center">
       <img src="predictions_ua_detrac.png" alt="UA DETRAC Prediction" width="600">
     </p>
