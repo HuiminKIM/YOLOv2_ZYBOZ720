@@ -44,6 +44,10 @@ In this section, you will create the HDL wrapper by integrating the accelerator 
     * *Note: You can safely ignore Critical Warnings related to Clock Skew.*
 10. **Create HDL Wrapper**: In the **Sources** window, right-click your block design file (`.bd`) and select **Create HDL Wrapper**. Choose "Let Vivado manage wrapper and auto-update".
 
+<p align="center">
+  <img src="hdl_wrapper.png" alt="hdl_wrapper.png" width="300">
+</p>
+<br
 ---
 
 You may now proceed to the next section: `02_Generate_bitstream`.
