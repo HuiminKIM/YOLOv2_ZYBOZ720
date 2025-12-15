@@ -46,4 +46,4 @@ In this section, you will create the HDL wrapper by integrating the accelerator 
 
 ---
 
-You may now proceed to the next section: `02_Synthesis & Implementation`.
+You may now proceed to the next section: `02_Generate_bitstream`.
