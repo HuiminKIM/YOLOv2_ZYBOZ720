@@ -1,4 +1,4 @@
-## Creating the YOLOv2 Accelerator IP
+## 0.Creating the YOLOv2 Accelerator IP
 
 This section covers the process of generating the `yolov2_accelerator` IP using Vivado.
 
