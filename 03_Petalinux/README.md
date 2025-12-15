@@ -151,7 +151,7 @@ sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make 
     Insert the SD card into the **ZYBO Z7-20** board. Ensure the **JP5** jumper is set to **SD/QSPI** mode as shown below.
 
     <p align="center">
-  <img src="jp5_zybo.jpg" alt="JP5 Setting" width="600" style="transform: rotate(-90deg);">
+  <img src="jp5_zybo.jpg" alt="JP5 Setting" width="600">
 </p>
 <br>
 
