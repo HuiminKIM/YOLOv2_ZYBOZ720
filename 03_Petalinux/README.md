@@ -138,10 +138,7 @@ sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make 
 
 2.  **About Weights**: The YOLOv2 weights and bias are quantized to **INT16**.
     * **Memory Layout**: Unlike the reference implementation, weights are stored in the order: **Width > Height > Input Channel > Output Channel**.
-    <br>
 
-    ![Save Method](save_method.png)
-    <br>
 
      <p align="center">
   <img src="save_method.png" alt="Save Method" width="600">
