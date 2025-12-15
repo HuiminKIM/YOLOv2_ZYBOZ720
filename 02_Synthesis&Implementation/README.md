@@ -8,4 +8,4 @@ This section outlines the process of integrating the generated `yolov2_accelerat
 
 2. **Next Steps**: Once the project is ready, proceed with the tasks described in the following folders/sections:
     * `01_Block_Design`
-    * `02_Synthesis & Implementation`
+    * `02_Generate_bitstream`
