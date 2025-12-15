@@ -42,6 +42,11 @@ In this section, you will create the HDL wrapper by integrating the accelerator 
 
 9. **Validate Design**: Click the **Validate Design** (checkbox icon) button to ensure the design is valid.
     * *Note: You can safely ignore Critical Warnings related to Clock Skew.*
+  <p align="center">
+  <img src="ignore.png" alt="ignore" width="300">
+</p>
+<br>
+      
 10. **Create HDL Wrapper**: In the **Sources** window, right-click your block design file (`.bd`) and select **Create HDL Wrapper**. Choose "Let Vivado manage wrapper and auto-update".
 
 <p align="center">
