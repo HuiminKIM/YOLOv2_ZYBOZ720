@@ -143,6 +143,11 @@ sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make 
     ![Save Method](save_method.png)
     <br>
 
+     <p align="center">
+  <img src="save_method.png" alt="Save Method" width="600">
+</p>
+<br>
+
 3.  **Prepare SD Card**:
     Format your Micro SD card with two partitions:
     * **Partition 1 (500MB, FAT32)**: Copy `boot.scr`, `boot.bin`, `image.ub`
