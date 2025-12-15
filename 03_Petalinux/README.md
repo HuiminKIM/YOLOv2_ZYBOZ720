@@ -151,7 +151,7 @@ sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make 
     Insert the SD card into the **ZYBO Z7-20** board. Ensure the **JP5** jumper is set to **SD/QSPI** mode as shown below.
     <br>
     
-    ![JP5 Setting](jp5_zybo.png)
+    ![JP5 Setting](jp5_zybo.jpg)
     <br>
 
 **Ready to Launch!** All preparations are complete. Proceed to the next section to run the accelerator.
