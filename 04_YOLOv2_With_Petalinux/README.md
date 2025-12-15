@@ -51,7 +51,7 @@ This section demonstrates how to execute the YOLOv2 accelerator application on t
     Upon completion, the following result images will be generated in the directory:
     <br>
 
-    **Prediction Result:**
+    **prediction.png:**
     <p align="center">
       <img src="prediction.png" alt="Prediction" width="600">
     </p>
