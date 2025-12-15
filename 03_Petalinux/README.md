@@ -140,7 +140,7 @@ sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make 
     * **Memory Layout**: Unlike the reference implementation, weights are stored in the order: **Width > Height > Input Channel > Output Channel**.
     <br>
 
-    ![Save Method](save_method)
+    ![Save Method](save_method.png)
     <br>
 
 3.  **Prepare SD Card**:
