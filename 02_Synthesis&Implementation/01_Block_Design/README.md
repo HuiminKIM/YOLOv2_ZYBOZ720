@@ -18,7 +18,12 @@ In this section, you will create the HDL wrapper by integrating the accelerator 
 6. **Customize Zynq Block**: Double-click the ZYNQ7 Processing System to open the configuration window:
     1. **PS-PL Configuration**: Enable **HP0** and **HP2** Slave interfaces.
     2. **Clock Configuration**: Set **FCLK_CLK0** to **100 MHz**.
-7. **Connect Blocks**: Add the remaining blocks as shown in the diagram below and **manually** connect the ports.
+* *Note: You can safely ignore Critical Warnings related to Clock Skew.*
+  <p align="center">
+  <img src="ignore.png" alt="ignore" width="300">
+</p>
+<br>
+7. **Connect Blocks**: Add the remaining blocks as shown in the diagram below and **manually** connect the ports(DO NOT click Run Connection Automation).
 <br>
 
 <p align="center">
