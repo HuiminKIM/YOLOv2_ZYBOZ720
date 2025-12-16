@@ -51,5 +51,7 @@ For a deeper understanding of the hardware architecture and implementation detai
 
 ## References
 **[1]** dhm2013724, yolov2_xilinx_fpga. (https://github.com/dhm2013724/yolov2_xilinx_fpga)
+
 **[2]** dtrnngc, UA-Detrac Dataset. (https://www.kaggle.com/datasets/dtrnngc/ua-detrac-dataset)
+
 **[3]** Microsoft COCO: Common Objects in Context.(https://doi.org/10.1007/978-3-319-10602-1_48)
