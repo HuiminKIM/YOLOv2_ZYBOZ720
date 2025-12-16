@@ -5,7 +5,7 @@ This section provides a testbench environment to verify and simulate the `yolov2
 ### 1. Download Testbench Files
 Due to the large file size, the testbench code is hosted externally. Please download the files from the link below:
 
-* **Download Link**: [Google Drive - Testbench.zip](https://drive.google.com/file/d/15Ss9-Vr7iKvI8DLn__ly7eNvlDacunIr/view?usp=drive_link)
+* **Download Link**: [Google Drive - testbench.zip](https://drive.google.com/file/d/15Ss9-Vr7iKvI8DLn__ly7eNvlDacunIr/view?usp=drive_link)
 
 ### 2. Simulation Setup Guide
 
