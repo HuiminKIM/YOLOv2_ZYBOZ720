@@ -126,8 +126,8 @@ sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make 
 
 1.  **Download Application**: Download the YOLOv2 software files using `sw.txt`.
     ```bash
-    pip install gdown
-    xargs gdown < sw.txt
+    sudo pip install gdown
+    gdown --id 1VHoulEC8P1EYTQdepH6UsNKm0GJtzX8t --fuzzy
     unzip yolov2.zip
     ```
 
