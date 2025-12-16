@@ -136,8 +136,8 @@ sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make 
     unzip yolov2.zip
     ```
 
-2.  **About Weights**: The YOLOv2 weights and bias are quantized to **INT16**.
-    * **Memory Layout**: Unlike the reference implementation, weights are stored in the order: **Width > Height > Input Channel > Output Channel**(Trained by COCO dataset).
+2.  **About Weights**: The YOLOv2 weights and bias are quantized to **INT16**(Trained by COCO dataset).
+    * **Memory Layout**: Unlike the reference implementation, weights are stored in the order: **Width > Height > Input Channel > Output Channel**.
 
 
      <p align="center">
