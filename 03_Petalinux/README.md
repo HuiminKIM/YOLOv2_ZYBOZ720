@@ -1,6 +1,6 @@
 ## 03. PetaLinux Build Environment
 
-This section describes the process of building a custom Linux environment using PetaLinux (Yocto-based) for the FPGA system. Please note that this process requires an Ubuntu environment. You will generate the OS using the XSA file exported in the previous section.
+This section describes the process of building a custom Linux environment using PetaLinux (Yocto-based) for the FPGA system. Please note that this process requires an Ubuntu environment(at least 128GB or more). You will generate the OS using the XSA file exported in the previous section.
 
 ### 0. Install Dependencies
 PetaLinux requires specific system dependencies. Please run the following commands based on your Vivado version.
