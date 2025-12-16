@@ -21,9 +21,9 @@ This section covers the process of synthesizing and implementing the HDL wrapper
 <br>
 
 4. **Adjust Strategy**: Using the default strategy often results in **timing violations**. Therefore, you must change the synthesis/implementation strategy as shown below:
-    * **For Vivado 2023.1**:
+    * **For Vivado 2023.2**:
     <br>
-    <img src="Design_Runs_2023.1.png" alt="Design Runs 2023.1" width="800">
+    <img src="Design_Runs_2023.2.png" alt="Design Runs 2023.2" width="800">
     <br><br>
 
     * **For Vivado 2025.1**:
