@@ -120,7 +120,7 @@ sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make 
     ```
     * **Output Files**: `boot.scr`, `boot.bin`, `image.ub`
 
-    > **⚠️ Note for Vivado 2025.1 Users**:
+    > **⚠️ Note **:
     > If `system.bit` is missing after the build:
     > 1. Extract your original `.xsa` file.
     > 2. Rename the extracted `.bit` file to `system.bit`.
