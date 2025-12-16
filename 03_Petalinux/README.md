@@ -5,11 +5,11 @@ This section describes the process of building a custom Linux environment using 
 ### 0. Install Dependencies
 PetaLinux requires specific system dependencies. Please run the following commands based on your Vivado version.
 
-**For Vivado 2023.2(Ubuntu 22.04.2 LTS):**
+**For Ubuntu 22.04.2 LTS(Vivado 2023.2):**
 ```bash
 sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make net-tools libncurses5-dev tftpd zlib1g-dev libssl-dev flex bison libselinux1 gnupg wget git-core diffstat chrpath socat xterm autoconf libtool tar unzip texinfo zlib1g-dev gcc-multilib automake zlib1g:i386 screen pax gzip cpio python3-pip python3-pexpect xz-utils debianutils iputils-ping python3-git python3-jinja2 libegl1-mesa libsdl1.2-dev pylint libtinfo5
 ```
-**For Vivado 2025.1(Ubuntu 22.04.5 LTS):**
+**For Ubuntu 22.04.5 LTS(Vivado 2025.1):**
 ```bash
 sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make net-tools libncurses5-dev tftpd zlib1g-dev libssl-dev flex bison libselinux1 gnupg wget git-core diffstat chrpath socat xterm autoconf libtool tar unzip texinfo zlib1g-dev gcc-multilib automake zlib1g:i386 screen pax gzip cpio python3-pip python3-pexpect xz-utils debianutils iputils-ping python3-git python3-jinja2 libegl1-mesa libsdl1.2-dev pylint libtinfo5 libncurses5
 ```
