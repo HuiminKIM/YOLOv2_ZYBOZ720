@@ -6,6 +6,7 @@ The YOLOv2 accelerator architecture (**Programmable Logic**) utilizes **INT16 qu
 
 > **Note**: This implementation currently requires approximately **12 seconds** for inference and does not guarantee real-time performance.
 
+![yolov2_acc_arch](yolov2_acc_arch.png)
 <br>
 
 ## Prerequisites & Environment
@@ -34,7 +35,7 @@ Once the environment is set up, please proceed with the tasks in the order of th
 ### Inference Results
 Upon successfully completing the steps up to `04_YOLOv2_With_Petalinux`, the system will generate the following predictions files:
 
-**Predictions Result[2]**
+**prediction.png[2]**
 ![predictions](predictions.png)
 <br>
 
