@@ -58,8 +58,7 @@ sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make 
     
     **[Terminal Command]**
     ```bash
-    cd project-spec/meta-user/recipes-bsp/device-tree/files/
-    gedit system-user.dtsi
+    gedit project-spec/meta-user/recipes-bsp/device-tree/files/system-user.dtsi
     ```
     
     **[File Content: system-user.dtsi]**
@@ -84,10 +83,6 @@ sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make 
         };
         
     };
-    ```
-    *(After saving the file, return to the project root directory.)*
-    ```bash
-    cd ../../../../../..
     ```
 
 3.  **Import Hardware**: Import the XSA file generated in the previous section (`02_Synthesis&Implementation`).
