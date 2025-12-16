@@ -17,7 +17,7 @@ To replicate this project, the following hardware and software environment is re
     * ZYBO Z7-20 FPGA Development Board
     * Micro SD card(8 GB or more)
 * **Software**
-    * **Vivado 2023.1 & Ubuntu 22.04.2 LTS**  or  **Vivado 2025.1 & Ubuntu 22.04.5 LTS**
+    * **Vivado 2023.2 & Ubuntu 22.04.2 LTS**  or  **Vivado 2025.1 & Ubuntu 22.04.5 LTS**
     * PuTTY (for serial communication)
 
 > **Setup Recommendation**:
