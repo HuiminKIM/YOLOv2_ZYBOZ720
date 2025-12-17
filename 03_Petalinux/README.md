@@ -98,7 +98,7 @@ sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make 
     * Navigate and enable the following packages:
         * **Filesystem Packages > devel > make**: Enable `make`, `make-dev`
         * **Filesystem Packages > misc > gcc-runtime**: Enable `libstdc++`, `libstdc++-dev`
-        * **Filesystem Packages > misc > packagegroup-core-buildessential**: Enable all related options.
+        * **Filesystem Packages > misc > packagegroup-core-buildessential**: Enable `packagegroup-core-buildessential`, `packagegroup-core-buildessential-dev`
 
 ### 3. Build & Package
 
