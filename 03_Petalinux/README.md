@@ -16,7 +16,7 @@ sudo apt-get install iproute2 gawk python3 python2 build-essential gcc git make 
 
 ### 1. Installation & Setup
 
-1.  **Download**: Download the PetaLinux installer matching your Vivado version from the [Xilinx Website](https://www.xilinx.com/support/download.html) (Check the *Embedded Software* section).
+1.  **Download**: Download the PetaLinux installer matching your Vivado version from the [Xilinx Website](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/embedded-design-tools/2025-1.html) (Check the *Embedded Software* section).
 2.  **Create Workspace**: Create a directory for PetaLinux.
     ```bash
     mkdir -p ~/petalinux
